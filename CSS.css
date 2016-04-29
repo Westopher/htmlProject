@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  font-family: helvetica;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  font-size: 10%;
+}
+
+p {
+    border: 5px solid grey;
+    padding: 50px;
+    margin: 10px;
+    color: green;
+}
